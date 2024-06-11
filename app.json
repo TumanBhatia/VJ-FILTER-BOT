@@ -19,23 +19,23 @@
     "repository": "https://github.com/VJBots/VJ-FILTER-BOT",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "7121414283:AAEiCnUwpMpQAucMMREe8_z9ldes-KHFEYs",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "27473163",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "f199e74434dfa81f6ec26c8b7ed4655a",
             "required": true
         },
         "CHANNELS": {
-            "description": "ID of file channel. Separate multiple IDs by space.",
+            "description": "-1002189046423",
             "required": true
         },
         "ADMINS": {
-            "description": "ID of Admin. Separate multiple Admins id by space.",
+            "description": "944416662",
             "required": true
         },
         "PICS": {
@@ -43,7 +43,7 @@
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "description": "-1002209151189",
             "required": true
         },
         "AUTH_USERS": {
@@ -55,7 +55,7 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+            "description": "mongodb+srv://movietaknet:km1DYEiqT0Man691@cluster0.pi2whhc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
             "required": true
         },
         "DATABASE_NAME": {
